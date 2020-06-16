@@ -1,2 +1,2 @@
-# Twitter-Sentiment-Prediction
-A Sentiment Prediction model trained on the sentiment140 dataset
+# Twitter Sentiment Prediction
+A simple sentiment prediction model trained using the [sentiment140 dataset](https://www.kaggle.com/kazanova/sentiment140).</br>
