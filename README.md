@@ -8,8 +8,8 @@ A simple sentiment prediction model trained using the [sentiment140 dataset](htt
 
 
 ## How to use:
-1. Download the `config.pickle`, `twitter_sentiment_state_dict.pt` and `sentiment.py` files. Make sure the other two files are in the same directory as that of `sentiment.py`.
-2. Import the sentiment.py script in your program.
+1. Download the `config.pickle`, `twitter_sentiment_state_dict.pt` and `sentiment.py` files. Make sure the other two files are in the same directory as `sentiment.py`.
+2. Import the `sentiment.py` script in your program.
 3. Make an object of `SentimentPredictor` and call the `predict()` function on it.
 
 *For Example:*
